@@ -10,7 +10,7 @@ This data repository was created for Professor Gotzler's English 105 class at th
 * Additional factors related to adult obesity are included in the raw data for any further data analysis of adult health.
 * This data can be used by health specialists or individuals who are curious about adult obesity and factors with causation and correlation. 
 
-## Why is the repository useful? 
+## What is the purpose of this repository? 
 
 ## How can users get started with the repository?
 
